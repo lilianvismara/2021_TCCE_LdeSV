@@ -9,6 +9,6 @@ O trabalho foi apresentado no VI Congresso de Ciência e Tecnologia (VI CCT) da 
 
 O conjunto de dados (imagens) de crescimento micelial de *Botrytis cinerea in vitro* na presença de compostos voláteis (potenciais antimicrobianos) em diferentes alíquotas (doses) de óleos essenciais (guaçatonga, melaleuca, patchouli e pitangueira) e controle de crescimento (testemunha), está disponível em: https://nuvem.utfpr.edu.br/index.php/f/38186766.
 
-
+---
 (C) 2021 Copyright. Lilian de Souza Vismara, Edgar de Souza Vismara, Francisco Carlos Monteiro Souza e Rafael Gomes Mantovani.
 
