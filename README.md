@@ -1,4 +1,5 @@
-# TCCE_LdeSV_2021
+# fungi_segmentation
+## TCCE_LdeSV_2021
 Repositório do Trabalho de Conclusão de Curso de Especialização (TCCE) contendo script e imagem_teste.
 
 VISMARA, Lilian de Souza. Segmentação de imagens de microrganismos para tarefas preditivas. 2021. 23 f. Trabalho de Conclusão de Curso – Curso de Especialização em Ciência de Dados, Universidade Tecnológica Federal do Paraná (UTFPR). Dois Vizinhos, 2021. Disponível em: (em breve). 
