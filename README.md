@@ -12,4 +12,4 @@ O conjunto de dados (imagens) de crescimento micelial de *Botrytis cinerea in vi
 
 ---
 
-(C) 2021 Copyright. Lilian de Souza Vismara, Edgar de Souza Vismara, Francisco Carlos Monteiro Souza e Rafael Gomes Mantovani.
+Copyright (C) 2021 -- Desenvolvido por Lilian de Souza Vismara, Edgar de Souza Vismara, Francisco Carlos Monteiro Souza e Rafael Gomes Mantovani. 
